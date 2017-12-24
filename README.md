@@ -1,3 +1,3 @@
 # c_exercise
-c programming exercise code  
-algorithms that are not intuitive.
+##c programming exercise code  
+###algorithms that are not intuitive.
