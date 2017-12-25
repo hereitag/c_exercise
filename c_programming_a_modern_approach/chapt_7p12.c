@@ -1,3 +1,16 @@
+/* c7p12_v2.c
+   C Programming: A Modern Approach, Second Edition
+   Chapter 7, Programming Project 12 (version 2)
+   Write a program that evaluates an expression:
+       Enter an expression: 1+2.5*3
+       Value of expression: 10.5
+   The operands in the expression are floating-point numbers;
+   the operators are +, -, *, and /. The expression is evaluated
+   from left to right (no operator takes precedence over any
+   other operator).
+   Liu Dian
+   2017.12.25
+*/
 #include <stdio.h>
 
 int main(void)
